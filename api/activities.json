@@ -1,67 +1,320 @@
 [
-    {
-      "activity": "Food Trip sa Maginhawa",
-      "description": "Explore various budget-friendly food stalls and cafés along Maginhawa Street in Quezon City.",
-      "for_couples": true,
-      "tags": ["foodie", "budget", "local gems", "Gen Z"],
-      "location_based": "Maginhawa, Quezon City"
-    },
-    {
-      "activity": "Aesthetic Cafe Hopping",
-      "description": "Visit artsy cafes around Metro Manila perfect for IG-worthy photos and chill vibes.",
-      "for_couples": true,
-      "tags": ["aesthetic", "Instagram", "cafe", "millennial"],
-      "location_based": "Metro Manila"
-    },
-    {
-      "activity": "Ukay-Ukay Shopping",
-      "description": "Hunt for fashion gems in thrift stores like those in Baguio or Cubao Expo.",
-      "for_couples": false,
-      "tags": ["thrift", "fashion", "budget", "Gen Z"],
-      "location_based": "Baguio, Cubao Expo"
-    },
-    {
-      "activity": "Sunset Watching at Manila Bay",
-      "description": "Enjoy the famous golden hour by the bay with street food on the side.",
-      "for_couples": true,
-      "tags": ["sunset", "romantic", "relaxing", "millennial"],
-      "location_based": "Manila Bay"
-    },
-    {
-      "activity": "TikTok Dance Challenge Collab",
-      "description": "Record a trending TikTok dance challenge with your barkada or partner.",
-      "for_couples": false,
-      "tags": ["tiktok", "fun", "trending", "Gen Z"]
-    },
-    {
-      "activity": "Local Podcast Listening Walk",
-      "description": "Put on your earphones, walk around your barangay or park while listening to a Filipino podcast.",
-      "for_couples": false,
-      "tags": ["self-care", "mental health", "millennial", "chill"]
-    },
-    {
-      "activity": "Zine-Making Date",
-      "description": "Create a mini-zine together with cutouts, poetry, and drawings — analog bonding for artsy couples.",
-      "for_couples": true,
-      "tags": ["DIY", "artsy", "creative", "millennial"]
-    },
-    {
-      "activity": "Karaoke Night sa Kubo",
-      "description": "Organize a karaoke session at someone’s bahay or barangay kubo — classic Pinoy bonding.",
-      "for_couples": false,
-      "tags": ["music", "bonding", "karaoke", "Gen Z", "millennial"]
-    },
-    {
-      "activity": "Genshin Co-op Chill Session",
-      "description": "Explore Teyvat together in a chill Genshin Impact co-op session, perfect for gaming couples.",
-      "for_couples": true,
-      "tags": ["gaming", "co-op", "anime", "Gen Z"]
-    },
-    {
-      "activity": "Volunteer for a Bayanihan Event",
-      "description": "Join a community-driven cleanup drive, food distribution, or donation drive.",
-      "for_couples": false,
-      "tags": ["volunteer", "community", "purpose", "millennial"]
-    }
-  ]
+  {
+    "activity": "Have a DIY photoshoot",
+    "description": "Create your own themed photoshoot at home.",
+    "for_couples": true
+  },
+  {
+    "activity": "Do a fashion challenge",
+    "description": "Style outfits using thrifted or old clothes.",
+    "for_couples": false
+  },
+  {
+    "activity": "Host a virtual hangout",
+    "description": "Catch up with friends through video calls.",
+    "for_couples": false
+  },
+  {
+    "activity": "Paint or draw your feelings",
+    "description": "Express emotions through colors and lines.",
+    "for_couples": false
+  },
+  {
+    "activity": "Have a picnic in the park",
+    "description": "Relax and enjoy homemade food in an open space.",
+    "for_couples": true
+  },
+  {
+    "activity": "Build a playlist with friends",
+    "description": "Collaborate and share your music taste.",
+    "for_couples": false
+  },
+  {
+    "activity": "Support a small business online",
+    "description": "Buy or share posts from Filipino sellers.",
+    "for_couples": true
+  },
+  {
+    "activity": "Film a mini vlog",
+    "description": "Document your day in an aesthetic or funny way.",
+    "for_couples": false
+  },
+  {
+    "activity": "Explore a new hobby",
+    "description": "Try crochet, painting, or baking something new.",
+    "for_couples": true
+  },
+  {
+    "activity": "Go biking around your area",
+    "description": "Stay fit while discovering new spots.",
+    "for_couples": true
+  },
+  {
+    "activity": "Start a passion project",
+    "description": "Begin that blog, art, or coding project you've been putting off.",
+    "for_couples": true
+  },
+  {
+    "activity": "Create a meme collection",
+    "description": "Save or design memes that make you laugh.",
+    "for_couples": false
+  },
+  {
+    "activity": "Create a travel bucket list",
+    "description": "List and plan destinations around the Philippines.",
+    "for_couples": false
+  },
+  {
+    "activity": "Learn basic sign language",
+    "description": "Start with the Filipino Sign Language alphabet.",
+    "for_couples": true
+  },
+  {
+    "activity": "Do a photowalk",
+    "description": "Take pictures of everyday moments or places.",
+    "for_couples": true
+  },
+  {
+    "activity": "Join an online community",
+    "description": "Find like-minded people based on your interests.",
+    "for_couples": true
+  },
+  {
+    "activity": "Practice mindfulness or meditation",
+    "description": "Dedicate time for inner peace.",
+    "for_couples": true
+  },
+  {
+    "activity": "Organize your digital life",
+    "description": "Declutter your phone or cloud storage.",
+    "for_couples": true
+  },
+  {
+    "activity": "Create a Filipino trivia quiz",
+    "description": "Test your barkada's knowledge on Pinoy pop culture.",
+    "for_couples": false
+  },
+  {
+    "activity": "Make DIY lip balm or soap",
+    "description": "Use natural ingredients at home.",
+    "for_couples": false
+  },
+  {
+    "activity": "Write a letter to your future self",
+    "description": "Reflect and seal it for later reading.",
+    "for_couples": false
+  },
+  {
+    "activity": "Make your own milk tea",
+    "description": "Recreate your favorite boba drink at home.",
+    "for_couples": false
+  },
+  {
+    "activity": "Learn basic first aid",
+    "description": "Watch tutorials or read guides.",
+    "for_couples": true
+  },
+  {
+    "activity": "Do a themed movie marathon",
+    "description": "Pick a genre or actor and binge-watch.",
+    "for_couples": false
+  },
+  {
+    "activity": "Create an aesthetic study space",
+    "description": "Make your workstation more motivating.",
+    "for_couples": true
+  },
+  {
+    "activity": "Try journaling daily",
+    "description": "Track your moods and thoughts.",
+    "for_couples": true
+  },
+  {
+    "activity": "Do a random act of kindness",
+    "description": "Brighten someone's day anonymously.",
+    "for_couples": true
+  },
+  {
+    "activity": "Learn a TikTok dance",
+    "description": "Record and post a trendy dance challenge.",
+    "for_couples": false
+  },
+  {
+    "activity": "Join a free online webinar",
+    "description": "Enhance your skills with a short course or talk.",
+    "for_couples": false
+  },
+  {
+    "activity": "Try digital minimalism",
+    "description": "Delete unused apps and simplify your screen.",
+    "for_couples": true
+  },
+  {
+    "activity": "Make your own tote bag",
+    "description": "Design and paint your reusable bag.",
+    "for_couples": false
+  },
+  {
+    "activity": "Cook a full meal for your family",
+    "description": "Surprise your loved ones with your cooking.",
+    "for_couples": true
+  },
+  {
+    "activity": "Challenge yourself to wake up early",
+    "description": "Enjoy a peaceful and productive morning.",
+    "for_couples": true
+  },
+  {
+    "activity": "Have a tech-free day",
+    "description": "Unplug and spend time in nature or with loved ones.",
+    "for_couples": false
+  },
+  {
+    "activity": "Do a no-spend weekend",
+    "description": "Challenge yourself to enjoy the weekend without spending.",
+    "for_couples": true
+  },
+  {
+    "activity": "Join a local clean-up drive",
+    "description": "Participate in community efforts to clean parks or beaches.",
+    "for_couples": false
+  },
+  {
+    "activity": "Host a board game night",
+    "description": "Bond over fun games with friends or family.",
+    "for_couples": true
+  },
+  {
+    "activity": "Host a karaoke night",
+    "description": "Sing your heart out with friends or family.",
+    "for_couples": false
+  },
+  {
+    "activity": "Plant herbs or vegetables",
+    "description": "Start a small garden at home.",
+    "for_couples": true
+  },
+  {
+    "activity": "Try a new local dish",
+    "description": "Explore a Filipino delicacy you've never eaten before.",
+    "for_couples": true
+  },
+  {
+    "activity": "Create a small zine",
+    "description": "Write or draw a mini-magazine about anything.",
+    "for_couples": true
+  },
+  {
+    "activity": "Attend a local farmers market",
+    "description": "Buy fresh produce and support small vendors.",
+    "for_couples": false
+  },
+  {
+    "activity": "Attend a cultural event or workshop",
+    "description": "Immerse yourself in local traditions.",
+    "for_couples": true
+  },
+  {
+    "activity": "Host a blind food tasting",
+    "description": "Guess dishes with your eyes closed.",
+    "for_couples": true
+  },
+  {
+    "activity": "Join a group workout session",
+    "description": "Do online Zumba or HIIT with others.",
+    "for_couples": false
+  },
+  {
+    "activity": "Organize a swap party",
+    "description": "Exchange books, clothes, or gadgets with friends.",
+    "for_couples": true
+  },
+  {
+    "activity": "Go stargazing",
+    "description": "Find a dark spot and enjoy the night sky.",
+    "for_couples": true
+  },
+  {
+    "activity": "Try spoken word poetry",
+    "description": "Write and perform your own piece.",
+    "for_couples": true
+  },
+  {
+    "activity": "Volunteer at an animal shelter",
+    "description": "Spend time with pets and help care for them.",
+    "for_couples": true
+  },
+  {
+    "activity": "Redecorate your room",
+    "description": "Give your space a cozy and creative vibe.",
+    "for_couples": false
+  },
+
+  {
+    "activity": "Food Trip sa Maginhawa",
+    "description": "Explore various budget-friendly food stalls and cafés along Maginhawa Street in Quezon City.",
+    "for_couples": true,
+    "tags": ["foodie", "budget", "local gems", "Gen Z"],
+    "location_based": "Maginhawa, Quezon City"
+  },
+  {
+    "activity": "Aesthetic Cafe Hopping",
+    "description": "Visit artsy cafes around Metro Manila perfect for IG-worthy photos and chill vibes.",
+    "for_couples": true,
+    "tags": ["aesthetic", "Instagram", "cafe", "millennial"],
+    "location_based": "Metro Manila"
+  },
+  {
+    "activity": "Ukay-Ukay Shopping",
+    "description": "Hunt for fashion gems in thrift stores like those in Baguio or Cubao Expo.",
+    "for_couples": false,
+    "tags": ["thrift", "fashion", "budget", "Gen Z"],
+    "location_based": "Baguio, Cubao Expo"
+  },
+  {
+    "activity": "Sunset Watching at Manila Bay",
+    "description": "Enjoy the famous golden hour by the bay with street food on the side.",
+    "for_couples": true,
+    "tags": ["sunset", "romantic", "relaxing", "millennial"],
+    "location_based": "Manila Bay"
+  },
+  {
+    "activity": "TikTok Dance Challenge Collab",
+    "description": "Record a trending TikTok dance challenge with your barkada or partner.",
+    "for_couples": false,
+    "tags": ["tiktok", "fun", "trending", "Gen Z"]
+  },
+  {
+    "activity": "Local Podcast Listening Walk",
+    "description": "Put on your earphones, walk around your barangay or park while listening to a Filipino podcast.",
+    "for_couples": false,
+    "tags": ["self-care", "mental health", "millennial", "chill"]
+  },
+  {
+    "activity": "Zine-Making Date",
+    "description": "Create a mini-zine together with cutouts, poetry, and drawings — analog bonding for artsy couples.",
+    "for_couples": true,
+    "tags": ["DIY", "artsy", "creative", "millennial"]
+  },
+  {
+    "activity": "Karaoke Night sa Kubo",
+    "description": "Organize a karaoke session at someone’s bahay or barangay kubo — classic Pinoy bonding.",
+    "for_couples": false,
+    "tags": ["music", "bonding", "karaoke", "Gen Z", "millennial"]
+  },
+  {
+    "activity": "Genshin Co-op Chill Session",
+    "description": "Explore Teyvat together in a chill Genshin Impact co-op session, perfect for gaming couples.",
+    "for_couples": true,
+    "tags": ["gaming", "co-op", "anime", "Gen Z"]
+  },
+  {
+    "activity": "Volunteer for a Bayanihan Event",
+    "description": "Join a community-driven cleanup drive, food distribution, or donation drive.",
+    "for_couples": false,
+    "tags": ["volunteer", "community", "purpose", "millennial"]
+  }
   
+  
+
+]
