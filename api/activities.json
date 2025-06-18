@@ -1,0 +1,67 @@
+[
+    {
+      "activity": "Food Trip sa Maginhawa",
+      "description": "Explore various budget-friendly food stalls and cafés along Maginhawa Street in Quezon City.",
+      "for_couples": true,
+      "tags": ["foodie", "budget", "local gems", "Gen Z"],
+      "location_based": "Maginhawa, Quezon City"
+    },
+    {
+      "activity": "Aesthetic Cafe Hopping",
+      "description": "Visit artsy cafes around Metro Manila perfect for IG-worthy photos and chill vibes.",
+      "for_couples": true,
+      "tags": ["aesthetic", "Instagram", "cafe", "millennial"],
+      "location_based": "Metro Manila"
+    },
+    {
+      "activity": "Ukay-Ukay Shopping",
+      "description": "Hunt for fashion gems in thrift stores like those in Baguio or Cubao Expo.",
+      "for_couples": false,
+      "tags": ["thrift", "fashion", "budget", "Gen Z"],
+      "location_based": "Baguio, Cubao Expo"
+    },
+    {
+      "activity": "Sunset Watching at Manila Bay",
+      "description": "Enjoy the famous golden hour by the bay with street food on the side.",
+      "for_couples": true,
+      "tags": ["sunset", "romantic", "relaxing", "millennial"],
+      "location_based": "Manila Bay"
+    },
+    {
+      "activity": "TikTok Dance Challenge Collab",
+      "description": "Record a trending TikTok dance challenge with your barkada or partner.",
+      "for_couples": false,
+      "tags": ["tiktok", "fun", "trending", "Gen Z"]
+    },
+    {
+      "activity": "Local Podcast Listening Walk",
+      "description": "Put on your earphones, walk around your barangay or park while listening to a Filipino podcast.",
+      "for_couples": false,
+      "tags": ["self-care", "mental health", "millennial", "chill"]
+    },
+    {
+      "activity": "Zine-Making Date",
+      "description": "Create a mini-zine together with cutouts, poetry, and drawings — analog bonding for artsy couples.",
+      "for_couples": true,
+      "tags": ["DIY", "artsy", "creative", "millennial"]
+    },
+    {
+      "activity": "Karaoke Night sa Kubo",
+      "description": "Organize a karaoke session at someone’s bahay or barangay kubo — classic Pinoy bonding.",
+      "for_couples": false,
+      "tags": ["music", "bonding", "karaoke", "Gen Z", "millennial"]
+    },
+    {
+      "activity": "Genshin Co-op Chill Session",
+      "description": "Explore Teyvat together in a chill Genshin Impact co-op session, perfect for gaming couples.",
+      "for_couples": true,
+      "tags": ["gaming", "co-op", "anime", "Gen Z"]
+    },
+    {
+      "activity": "Volunteer for a Bayanihan Event",
+      "description": "Join a community-driven cleanup drive, food distribution, or donation drive.",
+      "for_couples": false,
+      "tags": ["volunteer", "community", "purpose", "millennial"]
+    }
+  ]
+  
