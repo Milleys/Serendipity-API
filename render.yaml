@@ -1,6 +1,7 @@
 services:
   - type: web
     name: serendipity-api
-    env: static
-    staticPublishPath: .
-    buildCommand: ""
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
